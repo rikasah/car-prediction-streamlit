@@ -1,5 +1,9 @@
 streamlit
-plotly
 pandas
 numpy
+plotly
 scikit-learn
+scipy
+joblib
+openpyxl
+Pillow
